@@ -1,0 +1,446 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: armeabi-v7a",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\android_gradle_build.json due to:",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_command.txt, will remove stale json folder",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\.cxx\\cmake\\debug\\armeabi-v7a\u0027",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\.cxx\\cmake\\debug\\armeabi-v7a\u0027",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe\narguments : \n-HC:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++11\n-DCMAKE_FIND_ROOT_PATH\u003dC:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\.cxx\\cmake\\debug\\prefab\\armeabi-v7a\\prefab\n-DCMAKE_BUILD_TYPE\u003dDebug\n-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake\n-DANDROID_ABI\u003darmeabi-v7a\n-DANDROID_NDK\u003dC:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\n-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a\n-DCMAKE_ANDROID_NDK\u003dC:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\n-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-DANDROID_PLATFORM\u003dandroid-23\n-DANDROID_STL\u003dc++_shared\n-BC:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\.cxx\\cmake\\debug\\armeabi-v7a\n-GNinja\njvmArgs : \n\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"C:/Users/Administrator/Desktop/yolo/yolov5n_detection_demo/app/src/main/cpp\",\n  \"buildDirectory\": \"C:/Users/Administrator/Desktop/yolo/yolov5n_detection_demo/app/.cxx/cmake/debug/armeabi-v7a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_CXX_FLAGS\\u003d-std\\u003dc++11\",\n    \"-DCMAKE_FIND_ROOT_PATH\\u003dC:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\.cxx\\\\cmake\\\\debug\\\\prefab\\\\armeabi-v7a\\\\prefab\",\n    \"-DCMAKE_BUILD_TYPE\\u003dDebug\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.1.6352462\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darmeabi-v7a\",\n    \"-DANDROID_NDK\\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.1.6352462\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darmeabi-v7a\",\n    \"-DCMAKE_ANDROID_NDK\\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\21.1.6352462\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dC:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\build\\\\intermediates\\\\cmake\\\\debug\\\\obj\\\\armeabi-v7a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dC:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\",\n    \"-DANDROID_PLATFORM\\u003dandroid-23\",\n    \"-DANDROID_STL\\u003dc++_shared\"\n  ]\n}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe -- works",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe -- works",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Found OpenCV: C:/Users/Administrator/Desktop/yolo/yolov5n_detection_demo/app/OpenCV (found version \\\"4.2.0\\\") \",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Found OpenCV: C:/Users/Administrator/Desktop/yolo/yolov5n_detection_demo/app/OpenCV (found version \"4.2.0\") ",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"OpenCV libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "OpenCV libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"../../../../../../../AppData/Local/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake\",\"../../../../../../../AppData/Local/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake\",\"../../../OpenCV/sdk/native/jni/OpenCVConfig-version.cmake\",\"../../../OpenCV/sdk/native/jni/OpenCVConfig.cmake\",\"../../../OpenCV/sdk/native/jni/abi-armeabi-v7a/OpenCVConfig.cmake\",\"../../../OpenCV/sdk/native/jni/abi-armeabi-v7a/OpenCVModules.cmake\",\"../../../OpenCV/sdk/native/jni/abi-armeabi-v7a/OpenCVModules-release.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../../../.cxx/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.c\",\"../../../.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/debug/armeabi-v7a/CMakeFiles/feature_tests.cxx\",\"../../../.cxx/cmake/debug/armeabi-v7a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"C:/Users/Administrator/AppData/Local/Android/Sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"C:/Users/Administrator/Desktop/yolo/yolov5n_detection_demo/app/src/main/cpp\",\"type\":\"reply\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Debug\",\"projects\":[{\"buildDirectory\":\"C:/Users/Administrator/Desktop/yolo/yolov5n_detection_demo/app/.cxx/cmake/debug/armeabi-v7a\",\"name\":\"Project\",\"sourceDirectory\":\"C:/Users/Administrator/Desktop/yolo/yolov5n_detection_demo/app/src/main/cpp\",\"targets\":[{\"artifacts\":[\"C:/Users/Administrator/Desktop/yolo/yolov5n_detection_demo/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libNative.so\"],\"buildDirectory\":\"C:/Users/Administrator/Desktop/yolo/yolov5n_detection_demo/app/.cxx/cmake/debug/armeabi-v7a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE\u003d2 -march\u003darmv7-a -mthumb -Wformat -Werror\u003dformat-security  -std\u003dc++11 -ffast-math -Ofast -Os -DNDEBUG -fno-exceptions -fomit-frame-pointer -fno-asynchronous-unwind-tables -fno-unwind-tables -fvisibility\u003dhidden -fvisibility-inlines-hidden -fdata-sections -ffunction-sections -O0 -fno-limit-debug-info  -fPIC  \",\"defines\":[\"Native_EXPORTS\"],\"includePath\":[{\"path\":\"C:/Users/Administrator/Desktop/yolo/yolov5n_detection_demo/app/src/main/cpp/../../../PaddleLite/cxx/include\"},{\"isSystem\":true,\"path\":\"C:/Users/Administrator/Desktop/yolo/yolov5n_detection_demo/app/OpenCV/sdk/native/jni/include\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"Native.cc\",\"Pipeline.cc\",\"Utils.cc\"]}],\"fullName\":\"libNative.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -Wl,--build-id -Wl,--fatal-warnings -Wl,--exclude-libs,libunwind.a -Wl,--no-undefined -Qunused-arguments  -Wl,--gc-sections -Wl,-z,nocopyreloc\",\"linkLibraries\":\"C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\src\\\\main\\\\cpp\\\\..\\\\..\\\\..\\\\PaddleLite\\\\cxx\\\\libs\\\\armeabi-v7a\\\\libpaddle_light_api_shared.so -ljnigraphics C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_calib3d.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_core.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_dnn.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_features2d.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_flann.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_highgui.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_imgcodecs.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_imgproc.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_ml.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_objdetect.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_photo.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_stitching.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_video.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_videoio.a -lGLESv2 -lEGL -llog C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\liblibprotobuf.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_imgcodecs.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\liblibjpeg-turbo.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\liblibwebp.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\liblibpng.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\liblibtiff.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\liblibjasper.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\libIlmImf.a -landroid -llog -lmediandk C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\libquirc.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_calib3d.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_features2d.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_flann.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_imgproc.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\staticlibs\\\\armeabi-v7a\\\\libopencv_core.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\libtbb.a -lc -lz C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\libcpufeatures.a C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\libittnotify.a -ldl -lm -llog C:\\\\Users\\\\Administrator\\\\Desktop\\\\yolo\\\\yolov5n_detection_demo\\\\app\\\\OpenCV\\\\sdk\\\\native\\\\3rdparty\\\\libs\\\\armeabi-v7a\\\\libtegra_hal.a -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"Native\",\"sourceDirectory\":\"C:/Users/Administrator/Desktop/yolo/yolov5n_detection_demo/app/src/main/cpp\",\"sysroot\":\"C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_output.txt",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\.cxx\\cmake\\debug\\armeabi-v7a\\build_command.txt",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "C:\\Users\\Administrator\\Desktop\\yolo\\yolov5n_detection_demo\\app\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|armeabi-v7a"
+  }
+]
