@@ -2,8 +2,6 @@
 
 
 
-[TOC]
-
 
 
 ## 官方模型的改动
@@ -14,13 +12,13 @@
 
 如下所示，paddle 例程采用了 yolo 不是主流（？）的三个输出，而现在 yolov5 官方已经改成了在神经网络里面就处理好
 
-![](pics\3.jpg)
+![](https://github.com/Eric-is-good/yolov5_with_paddlelite/blob/master/pics/3.jpg)
 
 
 
 现在的模型输出长这样
 
-![](pics\4.jpg)
+![](https://github.com/Eric-is-good/yolov5_with_paddlelite/blob/master/pics/4.jpg)
 
 yolo 官方给的只用输出 0 预测，不难看出 6300 = 10 * 10 + 20 * 20 + 40 * 40 ，输出 0 直接把原来三个输出合并了，避免了分割图像不一致加 stride 的麻烦。
 
@@ -32,7 +30,7 @@ pred 直接得到四个数组（tensor 矩阵）
 
 他们长成这样
 
-![](pics\1.jpg)
+![](https://github.com/Eric-is-good/yolov5_with_paddlelite/blob/master/pics/1.jpg)
 
 
 
@@ -52,7 +50,7 @@ python 是用第一个进行预测（0 号矩阵）
 
    模型就成了这样
 
-![](pics\2.jpg)
+![](https://github.com/Eric-is-good/yolov5_with_paddlelite/blob/master/2.jpg)
 
 ​       显然不能，变成了这个什么东西
 
