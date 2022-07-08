@@ -50,7 +50,7 @@ python 是用第一个进行预测（0 号矩阵）
 
    模型就成了这样
 
-![](https://github.com/Eric-is-good/yolov5_with_paddlelite/blob/master/2.jpg)
+![](https://github.com/Eric-is-good/yolov5_with_paddlelite/blob/master/pics/2.jpg)
 
 ​       显然不能，变成了这个什么东西
 
