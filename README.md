@@ -92,7 +92,7 @@ python 是用第一个进行预测（0 号矩阵）
    output[xi] = x[i]  # 输出第 xi 张图片
    
    
-   # 回复到图片比例
+   # 还原到到原图片比例
    det[:, :4] = scale_coords(im.shape[2:], det[:, :4], im0.shape).round()
    
    ```
