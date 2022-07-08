@@ -140,14 +140,15 @@ void Detector::ExtractBoxes(const float *in,    // float[]
 
             if(in[offset+4] < confThresh_)
                   continue;
+                  
+            
+            // 再恢复成原来图片大小
 
             Object obj;
             int left = (int)((in[offset] - in[offset+2]/2 - (inputWidth_ - inputW )/ 2.0 ) / ratio_);   // 减去 padding
             int top = (int)((in[offset+1] - in[offset+3]/2)/ratio_);
             int w = (int)(in[offset+2]/ratio_);
             int h = (int)(in[offset+3]/ratio_);
-
-            // 再恢复成原来图片大小一下
 
 
             obj.rec = cv::Rect(left, top, w, h);
