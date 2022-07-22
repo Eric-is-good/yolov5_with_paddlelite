@@ -1,4 +1,4 @@
-# PaddleLite for yolov5 开发
+# PaddleLite for yolov5 部署
 
 
 
